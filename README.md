@@ -3,9 +3,10 @@
 
 - PROJECT 1: [Centralized Log Monitoring & Alerting Platform (Terraform, SQS, Lambda, SNS)](https://github.com/rohith9m/Log-Monitoring-and-Alerting-Platform)
 
+- PROJECT 2: [Automated CI/CD Platform (Jenkins, Docker, Kubernetes, AWS)](https://github.com/rohith9m/devops-ci-cd-pipeline)
+
 - CURRENTLY LEARNING : **Auto Scaling, CloudWatch**
 
-- PROJECT 2: [Automated CI/CD Platform (Jenkins, Docker, Kubernetes, AWS)](https://github.com/rohith9m/devops-ci-cd-pipeline)
 
 - REACH ME ON : **rohith9m@gmail.com**
 
