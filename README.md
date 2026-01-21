@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Rohith M</h1>
 <h3 align="center">I am an aspiring DevOps and Cloud Engineer</h3>
 
-- PROJECTS : [Centralized Log Monitoring & Alerting Platform (Terraform, SQS, Lambda, SNS)](https://github.com/rohith9m/Log-Monitoring-and-Alerting-Platform)
+- PROJECT 1: [Centralized Log Monitoring & Alerting Platform (Terraform, SQS, Lambda, SNS)](https://github.com/rohith9m/Log-Monitoring-and-Alerting-Platform)
 
 - CURRENTLY LEARNING : **Auto Scaling, CloudWatch**
+
+- PROJECT 2: [Automated CI/CD Platform (Jenkins, Docker, Kubernetes, AWS)](https://github.com/rohith9m/devops-ci-cd-pipeline)
 
 - REACH ME ON : **rohith9m@gmail.com**
 
