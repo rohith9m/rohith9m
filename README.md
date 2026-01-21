@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rohith M</h1>
+<h1 align="center">Hi, I'm Rohith M</h1>
 <h3 align="center">I am an aspiring DevOps and Cloud Engineer</h3>
 
-- 🌱 I’m currently learning **Auto Scaling, CloudWatch**
+- PROJECTS : [Centralized Log Monitoring & Alerting Platform (Terraform, SQS, Lambda, SNS)](https://github.com/rohith9m/Log-Monitoring-and-Alerting-Platform)
 
-- 📫 How to reach me **rohith9m@gmail.com**
+- CURRENTLY LEARNING : **Auto Scaling, CloudWatch**
+
+- REACH ME ON : **rohith9m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
