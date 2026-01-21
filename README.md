@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Auto Scaling, CloudWatch**
 
--  How to reach me **rohith9m@gmail.com**
+-  REACH ME : **rohith9m@gmail.com**
 
 
 <p align="left">
