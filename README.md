@@ -1,7 +1,7 @@
 <h1 align="center"> ROHITH M</h1>
 <h3 align="center">DevOps & Cloud Engineer</h3>
 
-<p>Currently improving advanced Kubernetes concepts, cloud security and IAM design, scalable monitoring and SRE patterns, and AWS cost optimization strategies. Actively seeking entry-level or junior opportunities in DevOps, Cloud Engineering, and Site Reliability Engineering roles.
+<p>I work on building and automating cloud infrastructure, developing CI/CD pipelines, and designing serverless and event-driven systems on AWS. My focus is on reliability, scalability, and cost-aware engineering using Infrastructure as Code and DevOps best practices.Currently improving advanced Kubernetes concepts, cloud security and IAM design, scalable monitoring and SRE patterns, and AWS cost optimization strategies. Actively seeking entry-level or junior opportunities in DevOps, Cloud Engineering, and Site Reliability Engineering roles.
 </p>
 
 - PROJECT 1: [Centralized Log Monitoring & Alerting Platform (Terraform, SQS, Lambda, SNS)](https://github.com/rohith9m/Log-Monitoring-and-Alerting-Platform)
