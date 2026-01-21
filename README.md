@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rohith M</h1>
+<h1 align="center">Hi, I'm Rohith M</h1>
 <h3 align="center">I am an aspiring DevOps and Cloud Engineer</h3>
 
-- 🌱 I’m currently learning **Auto Scaling, CloudWatch**
+-  I’m currently learning **Auto Scaling, CloudWatch**
 
-- 📫 How to reach me **rohith9m@gmail.com**
+-  How to reach me **rohith9m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
