@@ -1,5 +1,5 @@
 <h1 align="center"> ROHITH M</h1>
-<h3 align="center">I am an aspiring DevOps and Cloud Engineer</h3>
+<h3 align="center">DevOps & Cloud Engineer</h3>
 
 - PROJECT 1: [Centralized Log Monitoring & Alerting Platform (Terraform, SQS, Lambda, SNS)](https://github.com/rohith9m/Log-Monitoring-and-Alerting-Platform)
 
