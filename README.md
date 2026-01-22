@@ -11,6 +11,8 @@
 
 - PROJECT 2: [Automated CI/CD Platform (Jenkins, Docker, Kubernetes, AWS)](https://github.com/rohith9m/devops-ci-cd-pipeline)
 
+- PROJECT 3: [Event-Driven Serverless Backend (AWS)]([https://github.com/rohith9m/devops-ci-cd-pipeline](https://github.com/rohith9m/event-driven-backend))
+
 
 
 ---
